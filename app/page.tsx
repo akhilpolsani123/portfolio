@@ -64,7 +64,7 @@ export default function Home() {
           <div className="grid lg:grid-cols-5 gap-16 w-full">
             <div className="lg:col-span-3 space-y-8">
               <div className="space-y-2">
-                <div className="text-sm text-muted-foreground font-mono tracking-wider">PORTFOLIO / 2025</div>
+                <div className="text-sm text-muted-foreground font-mono tracking-wider">PORTFOLIO / 2026</div>
                 <h1 className="text-6xl lg:text-7xl font-light tracking-tight">
                   Akhil
                   <br />
@@ -74,7 +74,7 @@ export default function Home() {
 
               <div className="space-y-6 max-w-md">
                 <p className="text-xl text-muted-foreground leading-relaxed">
-                  Front-end developer with over
+                  Senior UIUX Designer / Frontend	 with over
                   <span className="text-foreground"> 11 years of experience</span> creating scalable, high-performing
                   web applications for the
                   <span className="text-foreground"> financial, healthcare, and automotive</span> industries.
@@ -94,7 +94,7 @@ export default function Home() {
               <div className="space-y-4">
                 <div className="text-sm text-muted-foreground font-mono">CURRENTLY</div>
                 <div className="space-y-2">
-                  <div className="text-foreground">Senior Frontend Developer</div>
+                  <div className="text-foreground">Senior UIUX Designer / Frontend</div>
                   <div className="text-muted-foreground">@ Benz, GA</div>
                   <div className="text-xs text-muted-foreground">Feb 2024 — Present</div>
                 </div>
@@ -128,7 +128,7 @@ export default function Home() {
               {[
                 {
                   year: "2024",
-                  role: "Senior Frontend Developer",
+                  role: "Senior UIUX Designer / Frontend",
                   company: "Benz, GA",
                   description:
                     "Developed and maintained React-based applications for Benz's automotive configurator and digital commerce platforms. Built scalable UI components with React, Tailwind CSS, and Context API for multi-device experiences. Developed 3D trim preview and interactive vehicle customization workflows using Three.js, React Three Fiber, and WebXR. Integrated Python-based AI models for real-time vehicle state predictions.",
@@ -136,7 +136,7 @@ export default function Home() {
                 },
                 {
                   year: "2021",
-                  role: "Senior Frontend Developer",
+                  role: "Senior UIUX Designer / Frontend",
                   company: "GE Health, WA",
                   description:
                     "Developed React applications for GE Health's diagnostic, scheduling, and patient management platforms with HIPAA-compliant architecture. Built reusable, accessible UI components using React, Tailwind CSS, and styled-components. Implemented data visualization dashboards with Recharts, D3.js, and Tableau/Power BI for patient vitals and predictive analytics.",
@@ -144,7 +144,7 @@ export default function Home() {
                 },
                 {
                   year: "2019",
-                  role: "Senior Frontend Developer",
+                  role: "Senior UIUX Designer / Frontend",
                   company: "State of New York, NY",
                   description:
                     "Developed and maintained React-based public portals for housing, education, and health services with accessibility and localization. Built SPAs using React Router, Context API, and Hooks. Delivered COVID-19 tools including test registration, appointment scheduling, and eligibility flow. Ensured WCAG 2.1 compliance with semantic HTML and ARIA roles.",
@@ -152,7 +152,7 @@ export default function Home() {
                 },
                 {
                   year: "2017",
-                  role: "Front-End Developer",
+                  role: "Senior UIUX Designer / Frontend",
                   company: "Walmart, AR",
                   description:
                     "Built enterprise-level front-end modules using React.js and TypeScript for Walmart's internal inventory and logistics platforms. Developed reusable UI components for dashboards, stock tracking, and product workflows with atomic design principles. Designed inventory and logistics dashboards with Power BI, Tableau, and Qlik for real-time operational decisions.",
@@ -160,7 +160,7 @@ export default function Home() {
                 },
                 {
                   year: "2015",
-                  role: "Front-End Developer",
+                  role: "Senior UIUX Designer",
                   company: "Gainwell Technologies, TX",
                   description:
                     "Developed React-based front-end applications for healthcare portals handling Medicaid claims and provider enrollment workflows. Created modular, reusable components using React and SCSS. Built form structures using Formik and Yup with dynamic field rendering, nested validations, and error handling. Engineered multilingual user interfaces using react-i18next.",
