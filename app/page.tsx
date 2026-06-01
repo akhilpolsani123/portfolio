@@ -135,7 +135,7 @@ export default function Home() {
                   tech: ["React.js", "TypeScript", "Three.js", "Node.js", "MongoDB", "WebXR", "GraphQL", "Apollo Client"],
                 },
                 {
-                  year: "2021",
+                  year: "2022",
                   role: "Senior UIUX Designer / Frontend",
                   company: "GE Health, WA",
                   description:
@@ -143,7 +143,7 @@ export default function Home() {
                   tech: ["React.js", "TypeScript", "Redux Toolkit", "FHIR APIs", "D3.js", "Recharts", "WebSockets"],
                 },
                 {
-                  year: "2019",
+                  year: "2018",
                   role: "Senior UIUX Designer / Frontend",
                   company: "State of New York, NY",
                   description:
