@@ -94,7 +94,7 @@ export default function Home() {
               <div className="space-y-4">
                 <div className="text-sm text-muted-foreground font-mono">CURRENTLY</div>
                 <div className="space-y-2">
-                  <div className="text-foreground">Senior UIUX Designer / Frontend</div>
+                  <div className="text-foreground">Senior UIUX / UX Researcher </div>
                   <div className="text-muted-foreground">@ Benz, GA</div>
                   <div className="text-xs text-muted-foreground">Feb 2024 — Present</div>
                 </div>
