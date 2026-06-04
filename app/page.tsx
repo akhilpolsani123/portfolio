@@ -74,7 +74,7 @@ export default function Home() {
 
               <div className="space-y-6 max-w-md">
                 <p className="text-xl text-muted-foreground leading-relaxed">
-                  Senior UIUX Designer / Frontend	 with over
+                  Senior UIUX / UX Researcher with over
                   <span className="text-foreground"> 11 years of experience</span> creating scalable, high-performing
                   web applications for the
                   <span className="text-foreground"> financial, healthcare, and automotive</span> industries.
