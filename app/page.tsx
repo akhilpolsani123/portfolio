@@ -74,7 +74,7 @@ export default function Home() {
 
               <div className="space-y-6 max-w-md">
                 <p className="text-xl text-muted-foreground leading-relaxed">
-                  Senior UX Generalist  with over
+                  Senior UX Designer  with over
                   <span className="text-foreground"> 11 years of experience</span> creating scalable, high-performing
                   web applications for the
                   <span className="text-foreground"> financial, healthcare, and automotive</span> industries.
@@ -94,7 +94,7 @@ export default function Home() {
               <div className="space-y-4">
                 <div className="text-sm text-muted-foreground font-mono">CURRENTLY</div>
                 <div className="space-y-2">
-                  <div className="text-foreground"> Senior UX Generalist </div>
+                  <div className="text-foreground"> Senior UX Designer </div>
                   <div className="text-muted-foreground">@ Benz, GA</div>
                   <div className="text-xs text-muted-foreground">Feb 2024 — Present</div>
                 </div>
@@ -128,7 +128,7 @@ export default function Home() {
               {[
                 {
                   year: "2024",
-                  role: "Senior UX Generalist",
+                  role: "Senior UX Designer",
                   company: "Benz, GA",
                   description:
                     "Developed and maintained React-based applications for Benz's automotive configurator and digital commerce platforms. Built scalable UI components with React, Tailwind CSS, and Context API for multi-device experiences. Developed 3D trim preview and interactive vehicle customization workflows using Three.js, React Three Fiber, and WebXR. Integrated Python-based AI models for real-time vehicle state predictions.",
@@ -136,7 +136,7 @@ export default function Home() {
                 },
                 {
                   year: "2022",
-                  role: "Senior UX Generalist",
+                  role: "Senior UX Designer",
                   company: "GE Health, WA",
                   description:
                     "Developed React applications for GE Health's diagnostic, scheduling, and patient management platforms with HIPAA-compliant architecture. Built reusable, accessible UI components using React, Tailwind CSS, and styled-components. Implemented data visualization dashboards with Recharts, D3.js, and Tableau/Power BI for patient vitals and predictive analytics.",
