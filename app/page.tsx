@@ -74,7 +74,7 @@ export default function Home() {
 
               <div className="space-y-6 max-w-md">
                 <p className="text-xl text-muted-foreground leading-relaxed">
-                  Senior UIUX / UX Researcher with over
+                  Senior UX Generalist  with over
                   <span className="text-foreground"> 11 years of experience</span> creating scalable, high-performing
                   web applications for the
                   <span className="text-foreground"> financial, healthcare, and automotive</span> industries.
@@ -128,7 +128,7 @@ export default function Home() {
               {[
                 {
                   year: "2024",
-                  role: "Senior UIUX / UX Researcher",
+                  role: "Senior UX Generalist",
                   company: "Benz, GA",
                   description:
                     "Developed and maintained React-based applications for Benz's automotive configurator and digital commerce platforms. Built scalable UI components with React, Tailwind CSS, and Context API for multi-device experiences. Developed 3D trim preview and interactive vehicle customization workflows using Three.js, React Three Fiber, and WebXR. Integrated Python-based AI models for real-time vehicle state predictions.",
@@ -136,7 +136,7 @@ export default function Home() {
                 },
                 {
                   year: "2022",
-                  role: "Senior UX Researcher  / Frontend",
+                  role: "Senior UX Generalist",
                   company: "GE Health, WA",
                   description:
                     "Developed React applications for GE Health's diagnostic, scheduling, and patient management platforms with HIPAA-compliant architecture. Built reusable, accessible UI components using React, Tailwind CSS, and styled-components. Implemented data visualization dashboards with Recharts, D3.js, and Tableau/Power BI for patient vitals and predictive analytics.",
