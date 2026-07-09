@@ -152,7 +152,7 @@ export default function Home() {
                 },
                 {
                   year: "2017",
-                  role: "Senior UIUX Designer / Frontend",
+                  role: "Senior UX Designer / Frontend",
                   company: "Walmart, AR",
                   description:
                     "Built enterprise-level front-end modules using React.js and TypeScript for Walmart's internal inventory and logistics platforms. Developed reusable UI components for dashboards, stock tracking, and product workflows with atomic design principles. Designed inventory and logistics dashboards with Power BI, Tableau, and Qlik for real-time operational decisions.",
@@ -160,7 +160,7 @@ export default function Home() {
                 },
                 {
                   year: "2015",
-                  role: "Senior UIUX Designer",
+                  role: "Senior UX Designer",
                   company: "Gainwell Technologies, TX",
                   description:
                     "Developed React-based front-end applications for healthcare portals handling Medicaid claims and provider enrollment workflows. Created modular, reusable components using React and SCSS. Built form structures using Formik and Yup with dynamic field rendering, nested validations, and error handling. Engineered multilingual user interfaces using react-i18next.",
